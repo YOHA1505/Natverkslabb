@@ -62,7 +62,7 @@ public class NetworkingServer {
                 }
 
             } catch (IOException ie){
-                System.out.println("ERROR: Failure when communicating with client!");
+                System.out.println("ERROR: Failure when communicating with client!!!");
             }
         }
     }
